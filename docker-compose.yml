@@ -32,8 +32,6 @@ services:
     container_name: uploader_frontend
     depends_on:
       - backend
-    environment:
-      API_URL: ${API_URL}
     ports:
       - "${CLIENT_PORT}:80"
 
