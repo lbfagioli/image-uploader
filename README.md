@@ -1,3 +1,3 @@
 # Image Uploader Project
 
-![Demo of Project](./docs/demo.gif)
+![Demo of Project](https://github.com/lbfagioli/image-uploader/blob/main/docs/demo.gif?raw=true)
